@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ialexpovod
-- 👀 I’m interested in <b>Radiation physics, Radiation Shielding, Programming (Python, Swift, SQL scripting), Statistics.Mathematics (Sampling, Data Distribution, Linear Algebra, Experiment Design, ANOVA)</b>
-- 🌱 I’m currently learning <b>Swift, Political science</b>
+- 👀 I’m interested in <b>Radiation physics, Radiation Shielding, Programming (Python, C++, .NET, SQL scripting), Statistics.Mathematics (Sampling, Data Distribution, Linear Algebra, Experiment Design, ANOVA)</b>
+- 🌱 I’m currently learning <b>GEANT4</b>
 - 💞️ I’m looking to collaborate on <ins>CERN</ins>
 - 📫 How to reach me 
 
