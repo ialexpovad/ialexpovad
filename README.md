@@ -13,7 +13,6 @@
 
 ## ✨ GitHub Statistics
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ialexpovod&show_icons=true&locale=en" alt="sebassaras02" /></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ialexpovod&show_icons=true&locale=en&layout=compact" alt="sebassaras02" /></p>
 
 <!---
