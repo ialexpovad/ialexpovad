@@ -6,10 +6,14 @@
 
 💡 If you are interested in radiation equipment development, radiation transfer modeling, software programming or data analysis in the context of radiation science, I would be happy to get involved and cooperate. Feel free to contact me to discuss potential collaborations, share ideas, or participate in stimulating discussions.
 
-## Links
+## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-povod-6154341a7)
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ialexpovod)
 [![telegram]( 	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ialexpovod)
+
+## ✨ GitHub Statistics
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ialexpovod&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ialexpovod&langs_count=5&theme=tokyonight)]()
 
 <!---
 ialexpovod/ialexpovod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
