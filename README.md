@@ -1,4 +1,4 @@
-# Hi, I’m Aliaksandr Povad (Alex Povod) 👋
+# Hi, I’m Alex (Aliaksandr) Povad 👋
 
 ## ☢️ About Me
 - 💼 I am a engineer/researcher with expertise in radiation equipment production for nuclear measurements and radiation monitoring. With a strong background in software programming, radiation transfer modeling, and data analysis, I am passionate about leveraging technology to tackle complex challenges in the field of radiation science.
