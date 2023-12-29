@@ -5,7 +5,7 @@
 
 - 🔬 Currently, I am actively contributing to an enterprise engaged in the development of advanced radiation equipment. My primary focus lies in software development, where I leverage my proficiency in Python, C/C++, and C# to create robust and efficient solutions for measuring and monitoring radiation. Additionally, I specialize in radiation transfer modeling using GEANT4 and MCNP6.3, powerful simulation tools widely embraced in the scientific community.
 
--💻 My skills include mastering the ASP.NET framework for Full Stack development (JS, HTML/CSS). I bring a unique blend of engineering and programming expertise to enhance the design, optimization, and functionality of radiation equipment. This integration of software development and radiation science allows for a holistic and innovative approach to solving challenges in the field.
+- 💻 My skills include mastering the ASP.NET framework for Full Stack development (JS, HTML/CSS). I bring a unique blend of engineering and programming expertise to enhance the design, optimization, and functionality of radiation equipment. This integration of software development and radiation science allows for a holistic and innovative approach to solving challenges in the field.
 
 💡 I am open to collaborations and discussions related to radiation equipment development, radiation transfer modeling, software programming, or data analysis in the context of radiation science. If you share an interest in these areas or have ideas for potential collaborations, feel free to reach out. I am eager to engage in stimulating discussions and contribute to advancements in the fascinating realm of radiation science.
 
