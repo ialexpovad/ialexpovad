@@ -14,10 +14,10 @@
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ialexpovod)
 [![telegram]( 	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ialexpovod)
 
-## ✨ GitHub Statistics
+<!--- ## ✨ GitHub Statistics
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ialexpovod&show_icons=true&locale=en" alt="sebassaras02" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ialexpovod&show_icons=true&locale=en&layout=compact" alt="sebassaras02" /></p>
-
+--->
 <!---
 ialexpovod/ialexpovod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
