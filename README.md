@@ -10,9 +10,9 @@
 💡 I am open to collaborations and discussions related to radiation equipment development, radiation transfer modeling, software programming, or data analysis in the context of radiation science. If you share an interest in these areas or have ideas for potential collaborations, feel free to reach out. I am eager to engage in stimulating discussions and contribute to advancements in the fascinating realm of radiation science.
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-povod-6154341a7)
-[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ialexpovod)
-[![telegram]( 	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ialexpovod)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-povad-6154341a7)
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ialexpovad)
+[![telegram]( 	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ialexpovad)
 
 <!--- ## ✨ GitHub Statistics
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ialexpovod&show_icons=true&locale=en" alt="sebassaras02" /></p>
